@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #9b59b6;">Olá, eu sou a Vitória!</h1>
+<h1 align="center" style="color: #9b59b6;">🐈‍⬛ • Olá, eu sou a Vitória! ’</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=C097FF&center=true&vCenter=true&multiline=true&width=435&lines=Programadora+J%C3%BAnior+apaixonada+por+tecnologia;Gatos+pretos%2C+lua+e+arte+digital;Criadora+da+Serena+Cat+%E2%9C%A8"/>
