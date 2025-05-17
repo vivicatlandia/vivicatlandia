@@ -24,7 +24,7 @@ const victoria = {
 
 - **[Serena Cat](https://github.com/vivicatlandia/serena-cat)** – Bot de moderação e diversão pro Discord com um toque fofo e floral.  
 - **[Meu Site](https://serena.code.blog)** – Um cantinho todo rosa bebê para explorar meus projetos.
-
+[![Meu Site](https://img.shields.io/badge/Visite%20meu%20site-ff69b4?style=for-the-badge&logo=github)](https://serena.code.blog/creator)
 ## 🐈‍⬛ Curiosidades
 
 - Sou furry e adoro desenhar personagens criativos.  
